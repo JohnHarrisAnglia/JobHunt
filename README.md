@@ -6,3 +6,5 @@ As its for learning ill be using Vue and .NET Core as I dont have much experince
 Ive been using mainly Angular and .NET/MVC for the past 5/6 years.
 
 Ill be doing a Jira or Trello board for the App after the initial setup of maybe a basic page pulling data from azure and maybe some auth.
+
+I have multi other things to be doing during the day so im expecting to be working on this between 5:30-8/9 over the next week at least for you to view my code and how I work.
